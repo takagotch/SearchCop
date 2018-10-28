@@ -1,7 +1,7 @@
 ### SearchCop
 ---
 
-https://github.com/toptal/chewy
+https://github.com/mrkamel/search_cop
 
 ```
 ```
